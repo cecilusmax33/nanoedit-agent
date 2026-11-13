@@ -1,0 +1,5 @@
+{
+  "name": "NanoEdit Agent",
+  "description": "A powerful image editing agent powered by Gemini 2.5 Flash Image (Nano Banana). Upload images, describe edits in natural language, and manage project context.",
+  "requestFramePermissions": []
+}
