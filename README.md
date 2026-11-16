@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/cecilusmax33/cecilusmax33/main/assets/logos/nanoedit-agent-logo.png" alt="nanoedit-agent logo" width="220"></p>
+
 # NanoEdit Agent
 
 A powerful image editing agent powered by Gemini 2.5 Flash Image (Nano Banana). Upload images, describe edits in natural language, and manage project context.
